@@ -17,9 +17,9 @@ Like that:
 # TODO: Add Docker Image CLI Command
 ```
 
-Fill in the content like discribed here: https://github.com/TediCross/TediCross
+Fill in the content like discribed [here](https://github.com/TediCross/TediCross#step-by-step-installation)
 
-settings.yaml Content: https://github.com/TediCross/TediCross/blob/master/example.settings.yaml 
+settings.yaml Content [here](https://github.com/TediCross/TediCross/blob/master/example.settings.yaml)
 
 ### Using Environment Variables
 Just add the needed tokens via environment variables to the docker image
